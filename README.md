@@ -1,1 +1,12 @@
-# Visual-Analysis-of-Traffic-Light-Data-and-Detecting-Anomalies-
+# Visual-Analysis-of-Traffic-Light-Data-and-Detecting-Anomalies
+1. **Data Collection**: The project focused on analyzing traffic signal data obtained from the Multi-Modal Intelligent Signal System (MMITS) field test in the state of Arizona. Specifically, the project utilized the "Detailed Description for Signal Plans for Roadside Equipment (RSE) Data" from the MMITS document. The dataset consisted of 1.5 million records, with each record representing a different intersection.
+
+2. **Data Cleaning and Preprocessing**: Before conducting the analysis, extensive data cleaning and preprocessing techniques were applied to ensure the accuracy and reliability of the information. This step involved removing any inconsistencies, errors, or missing values from the dataset. By performing these preprocessing techniques, the project aimed to obtain a clean and reliable dataset for further analysis.
+
+3. **Visual Analytics Approach**: The project employed a visual analytics approach to observe patterns and detect anomalies in the traffic signal data. Visual analytics combines the power of human judgment and observation with interactive visual representations to gain insights from complex and multidimensional datasets. By leveraging visual analytics tools and techniques, the project aimed to transform the overwhelming amount of data into meaningful and actionable information.
+
+4.** Pattern Analysis**: The project conducted a thorough analysis of the traffic signal data to identify patterns and trends across different intersections. By comparing the data from multiple intersections, the project aimed to uncover common patterns and anomalies that could impact the traffic signal system's performance. This analysis involved visualizing the data using custom visualization software packages and data mining techniques.
+
+5. **Anomaly Detection**: Through the visual analysis of the traffic signal data, the project successfully detected anomalies within the system. These anomalies included instances of short green lights and long red lights in some intersections, as well as vice versa in others. By identifying these anomalies, the project aimed to highlight potential errors or inefficiencies in the traffic signal system that could impact traffic flow and safety.
+
+6. **Insights and Recommendations**: The project's findings and insights from the visual analysis were used to gain a deeper understanding of the traffic signal control systems. The project team was able to provide recommendations for improving the traffic flow and addressing the identified anomalies. These recommendations were based on the analysis of the patterns and anomalies observed in the traffic signal data.
